@@ -1,6 +1,6 @@
 pip>=23.1.2
 fastapi
 uvicorn
-scikit-learn==1.2.2
+scikit-learn
 joblib
 python-multipart
