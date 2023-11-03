@@ -3,4 +3,3 @@ This directory defines an API endpoint using FastAPI that accepts POST requests 
 ML model trained on this Dataset: https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
 
 
-Hosted on : http://3.143.219.252:8000/docs#/
